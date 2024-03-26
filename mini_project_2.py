@@ -18,5 +18,5 @@ while flag:
             with open(file_path,'a') as file_obj:
                 file_obj.write(x+'\n')
         else:
-            print('Our senior prathamesh sir will solve error ')
+            print("somthing went wrong ")
 #ideas :-try to sort  all songs alphabetically, give sr no. to songs 
